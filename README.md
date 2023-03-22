@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Barkley Aires 😊✌️
 
-![barkley GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![barkley GitHub stats](https://github-readme-stats.vercel.app/api?username=barkleyaires&show_icons=true&theme=radical)
 
 Tecnologias que uso no dia a dia
 <div style="display: inline_block">
