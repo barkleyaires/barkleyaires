@@ -2,6 +2,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+Tecnologias que uso no dia a dia
+<div style="display: inline_block">
+   <img align="center" alt"Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+   <img align="center" alt"canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+   <img align="center" alt"trello" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+</div><br/>
+
 Tecnologias que estou aprendendo
 <div style="display: inline_block">
    <img align="center" alt"dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
